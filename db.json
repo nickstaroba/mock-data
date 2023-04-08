@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": "064a8880-b09c-48cb-ab8c-062c57dca7c7",
+      "category": "Outdoors",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Ergonomic Granite Mouse",
+      "price": "491.00",
+      "tags": ["turquoise", "blue", "azure"]
+    },
+    {
+      "id": "18b8d3ff-549e-49f9-ae26-bcaba35a94b5",
+      "category": "Toys",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Refined Frozen Gloves",
+      "price": "894.00",
+      "tags": ["yellow", "turquoise", "salmon"]
+    },
+    {
+      "id": "8b1ec70f-2494-4539-ac14-7feacd31efd3",
+      "category": "Electronics",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Practical Metal Table",
+      "price": "917.00",
+      "tags": ["mint green", "lavender", "black"]
+    },
+    {
+      "id": "8dafd8ee-38e3-452a-9dac-4b16a0fe73bc",
+      "category": "Tools",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Awesome Metal Fish",
+      "price": "460.00",
+      "tags": ["mint green", "lime", "indigo"]
+    },
+    {
+      "id": "b9f7fb3e-e81c-4dff-a44d-73391723d735",
+      "category": "Tools",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Bespoke Fresh Sausages",
+      "price": "43.00",
+      "tags": ["tan", "green", "lavender"]
+    },
+    {
+      "id": "f9f45395-cd53-4b8c-9207-9e008430cc73",
+      "category": "Health",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Unbranded Plastic Chips",
+      "price": "488.00",
+      "tags": ["black", "red", "ivory"]
+    },
+    {
+      "id": "0e167172-731f-49ab-bdd2-5b2a49e73d69",
+      "category": "Music",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Fantastic Frozen Towels",
+      "price": "394.00",
+      "tags": ["purple", "salmon", "azure"]
+    },
+    {
+      "id": "78017f7c-5822-4d51-a6aa-31c38f85d4ea",
+      "category": "Clothing",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Luxurious Rubber Bike",
+      "price": "560.00",
+      "tags": ["fuchsia", "salmon", "maroon"]
+    },
+    {
+      "id": "df9f02aa-bfc8-4c24-8f9a-5d71fe982ed1",
+      "category": "Tools",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Small Concrete Pants",
+      "price": "415.00",
+      "tags": ["magenta", "blue", "gold"]
+    },
+    {
+      "id": "8e1594f7-7478-4052-bb14-11fd2b075c87",
+      "category": "Beauty",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Ergonomic Steel Tuna",
+      "price": "180.00",
+      "tags": ["mint green", "teal", "yellow"]
+    },
+    {
+      "id": "c0ecea03-5730-45b3-ba4b-65dff3e6a711",
+      "category": "Automotive",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Awesome Metal Bike",
+      "price": "596.00",
+      "tags": ["olive", "cyan", "azure"]
+    },
+    {
+      "id": "5c7a4419-e544-4fbf-82e5-b99aa9a22d02",
+      "category": "Kids",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Licensed Wooden Computer",
+      "price": "88.00",
+      "tags": ["grey", "lavender", "green"]
+    },
+    {
+      "id": "d4b3d54c-edb8-4667-afc2-3be2eb28cc5f",
+      "category": "Tools",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Licensed Soft Mouse",
+      "price": "547.00",
+      "tags": ["plum", "turquoise", "cyan"]
+    },
+    {
+      "id": "27de1268-f9a6-4afd-9e62-670f253ade31",
+      "category": "Clothing",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Tasty Plastic Towels",
+      "price": "290.00",
+      "tags": ["fuchsia", "tan", "white"]
+    },
+    {
+      "id": "3aeb2139-6019-49c4-a48c-c8fdbd4f972f",
+      "category": "Home",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Luxurious Granite Bacon",
+      "price": "477.00",
+      "tags": ["yellow", "magenta", "mint green"]
+    },
+    {
+      "id": "5edb5b0c-4702-4391-8389-1f37cda87f48",
+      "category": "Kids",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Intelligent Cotton Bacon",
+      "price": "53.00",
+      "tags": ["red", "teal", "magenta"]
+    },
+    {
+      "id": "550be59d-8673-4308-8e2c-42ae80b771b3",
+      "category": "Beauty",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Licensed Bronze Car",
+      "price": "606.00",
+      "tags": ["black", "olive", "tan"]
+    },
+    {
+      "id": "f4350afb-a0b7-48f4-b8ca-a25b5ec391d2",
+      "category": "Industrial",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Bespoke Frozen Mouse",
+      "price": "603.00",
+      "tags": ["lime", "gold", "grey"]
+    },
+    {
+      "id": "82f16113-21cf-4cb1-873e-e97c38319687",
+      "category": "Home",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Incredible Soft Bacon",
+      "price": "744.00",
+      "tags": ["olive", "maroon", "magenta"]
+    },
+    {
+      "id": "36bdbc23-e27d-410c-9d97-0a293dbc52b3",
+      "category": "Garden",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "image": "https://loremflickr.com/560/280/city",
+      "name": "Ergonomic Granite Shirt",
+      "price": "827.00",
+      "tags": ["grey", "mint green", "green"]
+    }
+  ]
+}

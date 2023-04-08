@@ -1,0 +1,31 @@
+{
+  "name": "mock-data",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://nickstaroba.github.io/mock-data/",
+  "license": "MIT",
+  "author": "Nick Staroba",
+  "scripts": {
+    "dev": "NODE_ENV=local node server.js",
+    "generate-mock-data": "node scripts/generateMockData.js",
+    "lint": "npm run lint::prettier && npm run lint::eslint",
+    "lint-staged": "lint-staged",
+    "lint::eslint": "eslint \"**/*.{js,jsx,ts,tsx}\" --fix",
+    "lint::prettier": "prettier \"./**/*.{css,html,js,json,jsx,md,scss,ts,tsx,yaml,yml}\" --write",
+    "prepare": "husky install",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "cors": "2.8.5",
+    "dotenv": "16.0.3",
+    "husky": "8.0.3",
+    "json-server": "0.17.3"
+  },
+  "devDependencies": {
+    "@eterna/commitlint-config": "1.2.0",
+    "@eterna/eslint-config-javascript": "1.2.3",
+    "@eterna/lint-staged-config-eslint": "1.2.0",
+    "@eterna/lint-staged-config-prettier": "1.2.0",
+    "@faker-js/faker": "7.6.0"
+  }
+}

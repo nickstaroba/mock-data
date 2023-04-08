@@ -1,0 +1,14 @@
+.husky/
+.git/
+.idea/
+.vscode/
+node_modules/
+scripts/
+g
+.commitlintrc.js
+.env.local
+.env.local.example
+.eslintrc.js
+.gcloudignore
+.gitignore
+.lintstagedrc.js
